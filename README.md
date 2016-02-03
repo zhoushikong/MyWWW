@@ -8,3 +8,6 @@ http://sqlitestudio.pl/
 
 入门级学习资料合集
 http://www.runoob.com/
+
+开发者文档整理
+http://it-ebooks.flygon.net/
