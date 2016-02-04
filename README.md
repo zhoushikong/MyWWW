@@ -14,3 +14,6 @@ http://it-ebooks.flygon.net/
 
 W3School 教程整理
 https://github.com/wizardforcel/w3school
+
+zxing使用Demo
+http://www.open-open.com/lib/view/open1433399323182.html
