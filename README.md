@@ -17,3 +17,4 @@ https://github.com/wizardforcel/w3school
 
 zxing使用Demo
 http://www.open-open.com/lib/view/open1433399323182.html
+http://blog.csdn.net/xiaorenwu1206/article/details/38684983
