@@ -22,3 +22,6 @@ final String filePath = File.separator + "storage" + File.separator + "emulated"
                         + "qr_"+ contentET.getText().toString().trim() + System.currentTimeMillis() + ".jpg";
                 File destDir = new File(File.separator + "storage" + File.separator + "emulated" + File.separator + "0" + File.separator + "二维码");
                 destDir.mkdirs();
+                
+图片选择器
+http://www.tuicool.com/articles/zyQNny
