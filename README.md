@@ -28,3 +28,5 @@ http://www.tuicool.com/articles/zyQNny
 
 volley
 http://blog.csdn.net/tcpipstack/article/details/39084245
+
+Android 实现个性的ViewPager切换动画 实战PageTransformer（兼容Android3.0以下）
