@@ -30,3 +30,4 @@ volley
 http://blog.csdn.net/tcpipstack/article/details/39084245
 
 Android 实现个性的ViewPager切换动画 实战PageTransformer（兼容Android3.0以下）
+http://blog.csdn.net/lmj623565791/article/details/40411921
