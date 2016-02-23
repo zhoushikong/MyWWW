@@ -1,0 +1,9 @@
+依次触发
+onUIRefreshPrepare
+onUIRefreshBegin
+onUIRefreshComplete
+onUIReset
+
+PtrClassicFrameLayout ptrClassicFrameLayout;
+ptrClassicFrameLayout.setPtrHandler(ptrHandler);
+ptrClassicFrameLayout.addPtrUIHandler(ptrUIHandler);
