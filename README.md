@@ -37,3 +37,6 @@ www.imooc.com/api/teacher?type=4&num=30
 
 Android 学习资料收集
 https://github.com/Freelander/Android_Data?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+Android系统服务
+http://blog.csdn.net/chenyafei617/article/details/6577907
