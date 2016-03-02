@@ -43,3 +43,6 @@ http://blog.csdn.net/chenyafei617/article/details/6577907
 
 git - 简明指南
 http://rogerdudler.github.io/git-guide/index.zh.html
+
+SDCard目录
+http://blog.csdn.net/chengyingzhilian/article/details/7833967
