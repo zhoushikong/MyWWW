@@ -40,3 +40,6 @@ https://github.com/Freelander/Android_Data?hmsr=toutiao.io&utm_medium=toutiao.io
 
 Android系统服务
 http://blog.csdn.net/chenyafei617/article/details/6577907
+
+git - 简明指南
+http://rogerdudler.github.io/git-guide/index.zh.html
